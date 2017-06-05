@@ -2,3 +2,7 @@
 //
 // Copy variables from `_variables.scss` to this file to override default values
 // without modifying source files.
+
+$enable-shadows:            true !default;
+$body-bg:       $gray-light !default;
+$body-color:    $gray-lighter !default;
